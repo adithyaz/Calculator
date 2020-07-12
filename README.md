@@ -1,2 +1,2 @@
 # Calculator
-Calculator program, made from C++
+Calculator program, made from C++ and Python
