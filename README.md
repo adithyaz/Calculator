@@ -1,2 +1,2 @@
 # Calculator
-Calculator program, made from C++ and Python
+calculator program that I made from C ++ and Python. Indonesian
